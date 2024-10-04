@@ -42,6 +42,6 @@ export function constructMetadata({
       creator: '@omkarpawar7000',
     },
     icons,
-    metadataBase: new URL("https://casecobra-five-dusky.vercel.app/")
+    metadataBase: new URL("https://casecobra-bice.vercel.app/")
   }
 }
