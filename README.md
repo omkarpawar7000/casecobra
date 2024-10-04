@@ -1,3 +1,17 @@
+<div align="center">
+  <br />
+      <img src="https://github.com/omkarpawar7000/casecobra/blob/5abc53357e4b902e7ac84120c61d80f99c7b2539/casecobra.jpg" alt="Project Banner">
+  <br />
+
+  <div>
+    <img src="https://github.com/omkarpawar7000/casecobra/blob/5abc53357e4b902e7ac84120c61d80f99c7b2539/typescript.svg" alt="typescript" />
+    <img src="https://github.com/omkarpawar7000/casecobra/blob/5abc53357e4b902e7ac84120c61d80f99c7b2539/nextjs.svg" alt="nextdotjs" />
+    <img src="https://github.com/omkarpawar7000/casecobra/blob/5abc53357e4b902e7ac84120c61d80f99c7b2539/tailwindcss.svg" alt="tailwindcss" />
+  </div>
+
+  <h3 align="center">A Zoom Clone</h3>
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
